@@ -13,5 +13,5 @@ This is a simple To-Do list web application built using **HTML**, **CSS**, and *
 
 ## Demo
 
-You can open the `index.html` file locally in your browser to test the app.
+You can open the `Update index.html` file locally in your browser to test the app.
 
